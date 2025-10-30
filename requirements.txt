@@ -1,0 +1,5 @@
+
+numpy
+rasterio
+pyproj
+# Tkinter is built-in with standard Python, no need to install
